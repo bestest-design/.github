@@ -1,1 +1,1 @@
-# .github
+# [`Edit Profile`](profile/README.md)
