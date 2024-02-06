@@ -1,1 +1,1 @@
-# [`Edit Profile`](profile/README.md)
+# [`Edit Profile`](/bestest-design/.github/edit/main/profile/README.md)
