@@ -1,2 +1,4 @@
-`<?php
-//Silence is golden.`
+```php
+<?php
+//Silence is golden.
+```
